@@ -1,0 +1,15 @@
+.background-image{
+	background-image: url('../images/phone.jpg');
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	height: auto;
+  width: 100%;
+	padding-bottom: 25rem;
+}
+#but{
+	color: #e9eaef;
+    background-color: #393b80;
+    border-color: #757577;
+		margin-top: 1rem;
+}

@@ -1,0 +1,155 @@
+body{
+  margin: 0px;
+  padding: 0px;
+}
+
+#joy{
+  background-color: #393b80;
+
+}
+.goatee{
+  opacity: 0.8;
+}
+#heat{
+  padding-left: 140px;
+  color: white;
+}
+
+.navbar-default .navbar-nav>.open>a, .navbar-default .navbar-nav>.open>a:focus, .navbar-default .navbar-nav>.open>a:hover {
+    color: #555;
+    background-color: white;
+  }
+.dropdown-menu{
+  background-color: white;
+}
+.navbar-default .navbar-nav>li>a {
+    color: white;
+  }
+
+.navbar-default{
+  border-color: #393b80;
+}
+.nav{
+  padding-left: 0rem;
+}
+.navbar{
+  border-radius: 0px;
+}
+
+.code{
+  font-size: 6vmax;
+    padding-bottom: 11rem;
+    color: #ffffff;
+    font-family: 'IBM Plex Sans Condensed', sans-serif;
+}
+.ode{
+  font-size: 2vmax;
+  padding-bottom: 0rem;
+  color: #ffffff;
+  font-family: 'IBM Plex Sans Condensed', sans-serif;
+}
+.two{
+  text-align: center;
+  padding-bottom: 6rem;
+  color: #ffffff;
+  font-family: 'IBM Plex Sans Condensed', sans-serif;
+}
+.three{
+  padding-bottom: 11rem;
+  color: #ffffff;
+  font-family: 'IBM Plex Sans Condensed', sans-serif;
+}
+.four{
+  padding-bottom: 11rem;
+  color: white;
+  font-family: 'IBM Plex Sans Condensed', sans-serif;
+}
+.five{
+  padding-bottom: 11rem;
+  color: #ffffff;
+  font-family: 'IBM Plex Sans Condensed', sans-serif;
+}
+#ren{
+    padding-right: 0rem;
+}
+#renn{
+  padding-left: 0rem;
+    padding-right: 0rem;
+}
+#renny{
+  padding-left: 0rem;
+}
+.row{
+  margin-right: -0px;
+    margin-left: -0px;
+}
+.form-horizontal{
+  color: white;
+}
+#policy{
+  background-color: white;
+  padding-top: 3rem;
+padding-bottom: 4rem;
+}
+.btn-success{
+  background-color: #393b80;
+    border-color: #393b80;
+}
+.list-group-item{
+  font-size: 1rem;
+}
+.dropdown-menu>li>a{
+  color: #393b80;
+  border-color: white;
+}
+#but{
+  background-color: #393b80;
+  color: white;
+}
+.carousel-control{
+  top: 0px;
+}
+.input-group{
+  width: 100%;
+  margin-bottom: 15px;
+}
+#msgbtn{
+  color: #393b80;
+background-color: white;
+margin-left: 13px;
+}
+.img-circle{
+  border-radius: 50%;
+  width: 50%;
+  height: 50%;
+  margin-left: 6rem;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+.form-control{
+  font-family: 'IBM Plex Sans Condensed', sans-serif;
+}
+.form-controls{
+  font-family: 'IBM Plex Sans Condensed', sans-serif;
+}
+.name{
+  text-align: center;
+    margin-top: -5px;
+}
+.col-md-1{
+  padding-top: 19px;
+  font-size: 2rem;
+}
+.foot{
+  color: #393b80;
+}
+.left{
+  text-align: left;
+}
+.poll{
+  margin-top: -9px;
+}
+.live{
+  float: left;
+  margin-bottom: 3px;
+}
